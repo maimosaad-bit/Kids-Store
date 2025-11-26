@@ -22,7 +22,7 @@ This is a simple e-commerce React project for a kids clothing store.
 ```bash
 git clone https://github.com/your-username/kids-store.git
 
-Notes :
+## Notes :
 -- This project is a learning project for practicing React fundamentals.
 
 -- No backend integration yet. Cart data is stored locally in React state
