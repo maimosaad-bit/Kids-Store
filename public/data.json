@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Striped Kids T‑Shirt",
+    "price": 180,
+    "image": "/images/istockphoto-959938120-612x612.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Baby Blue Onesie",
+    "price": 220,
+    "image": "/images/istockphoto-1713232883-612x612.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kids Summer Dress",
+    "price": 300,
+    "image": "/images/istockphoto-1305114996-612x612.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Baby Sneaker Shoes",
+    "price": 250,
+    "image": "/images/istockphoto-931055460-612x612.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hooded Jacket",
+    "price": 350,
+    "image": "/images/istockphoto-1294345604-612x612.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Colorful Kids Shorts",
+    "price": 200,
+    "image": "/images/istockphoto-172129427-612x612.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pink Baby Dress",
+    "price": 280,
+    "image": "/images/istockphoto-658122408-612x612.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Green Hoodie",
+    "price": 220,
+    "image": "/images/istockphoto-866588302-612x612.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Yellow Summer Hat",
+    "price": 120,
+    "image": "/images/istockphoto-641039836-612x612.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blue Denim Jeans",
+    "price": 320,
+    "image": "/images/istockphoto-155099131-1024x1024.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Red Sneakers",
+    "price": 270,
+    "image": "/images/istockphoto-821548240-612x612.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Striped Socks Set",
+    "price": 80,
+    "image": "/images/istockphoto-524161848-612x612.jpg"
+  }
+]
